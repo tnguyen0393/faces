@@ -7,8 +7,8 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
       <p className="f3">
         This website can detect faces in your pictures. Give it a try!
       </p>
-      <div class="center">
-        <div class="form center pa4 br3 shadow-5">
+      <div className="center">
+        <div className="form center pa4 br3 shadow-5">
           <input
             className="f4 pa2 w-70 center"
             type="text"
